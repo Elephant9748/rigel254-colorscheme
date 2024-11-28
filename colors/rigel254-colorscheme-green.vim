@@ -217,7 +217,7 @@ endif
 " Theme setup
 hi clear
 syntax reset
-let g:colors_name = "rigel254-colorscheme"
+let g:colors_name = "rigel254-colorscheme-green"
 
 " Highlighting function
 " Optional variables are attributes and guisp
