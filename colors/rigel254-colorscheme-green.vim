@@ -40,8 +40,8 @@ endif
 
 " GUI color definitions
 " let s:gui00        = "1d2021" " Default Color
-let s:gui00        = "151515" 
-" let s:gui00        = "0E0E0E"
+" let s:gui00        = "151515" 
+let s:gui00        = "0E0E0E"
 let g:tinted_gui00 = "1d2021" " Default Color
 " let g:tinted_gui00 = "1C1C1C"
 let s:gui01        = "1C1C1C"
